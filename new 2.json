@@ -1,0 +1,14 @@
+[
+{
+"author" : "VotreNom",
+"name" : "Theme",
+"keyWords" : "keyword1,keyword2",
+"version" : "1.0.0",
+"dofusVersion" : "2.XX",
+"description" : "Description",
+"url" : "https://github.com/boblebricoleur44/themedebase/raw/main/theme%20de%20base.7z",
+"previewUrl" : "L'URL d'hébergement de l'image de présentation",
+"creationDate" : "JJ/MM/AAAA",
+"modificationDate" : "JJ/MM/AAAA"
+}
+]
